@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\TAJSTAR\bin\Debug\TAJSTAR.exe.config
+C:\Users\HP\source\repos\TAJSTAR\bin\Debug\TAJSTAR.exe
+C:\Users\HP\source\repos\TAJSTAR\bin\Debug\TAJSTAR.pdb
+C:\Users\HP\source\repos\TAJSTAR\obj\Debug\TAJSTAR.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TAJSTAR\obj\Debug\TAJSTAR.Form1.resources
+C:\Users\HP\source\repos\TAJSTAR\obj\Debug\TAJSTAR.Properties.Resources.resources
+C:\Users\HP\source\repos\TAJSTAR\obj\Debug\TAJSTAR.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TAJSTAR\obj\Debug\TAJSTAR.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TAJSTAR\obj\Debug\TAJSTAR.exe
+C:\Users\HP\source\repos\TAJSTAR\obj\Debug\TAJSTAR.pdb
